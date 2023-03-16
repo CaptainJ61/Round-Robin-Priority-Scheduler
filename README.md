@@ -1,4 +1,4 @@
-The code was made using a UNIX/LINUX VM avalible at Bradley called Putty.
+The code was written in C++ and compiled using a UNIX/LINUX VM avalible at Bradley called Putty.
 jobGenerator() generates a collection of "jobs" numbered from 1 - 100. These jobs are then separated into 3 separate priority queues. The queues are then put through the jobScheduler() which then assigns a worker process to each job.
 
 Below is the list of the problems with the code given to me by my professor after submission:
